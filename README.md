@@ -86,7 +86,7 @@ const interval = setInterval(() => {
 หลังจาก Deploy แล้ว สามารถฝังในเว็บอื่นด้วย:
 
 ```html
-<iframe src="https://your-project.vercel.app" width="800" height="600" style="border:none;"></iframe>
+<iframe src="https://melody-interrupt-final.vercel.app/" width="800" height="600" style="border:none;"></iframe>
 ```
 
 ---
@@ -128,8 +128,8 @@ npm run dev
 
 ## 📬 ติดต่อ (Contact)
 
-- พัฒนาโดย: [ชื่อคุณ]
-- ติดต่อ: [ช่องทางการติดต่อ]
+- พัฒนาโดย: RONAKON WATTANAMONGKOLCHOKE
+- ติดต่อ: kicvong@gmail.com, 6772085021@student.chula.ac.th
 
 ---
 
